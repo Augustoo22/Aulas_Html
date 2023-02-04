@@ -1,0 +1,49 @@
+body {
+    margin: 0px;
+
+}
+
+.header {
+    position: fixed;
+    height: 60px;
+    width: 100%;
+    top: 0px;
+    background-color: #00113b;
+    text-align: center;
+}
+
+.header h1 {
+    font-size: 30px;
+    line-height: 8px;
+    color: aliceblue;
+}
+
+.lateral {
+    position: fixed;
+    float: left;
+    margin-top: 60px;
+    width: 150px;
+    background-color: aqua; 
+    height: calc(100vh - 80px);
+    /*
+    vh - viewport heigth (altura)
+    vw - viewport width (largura)
+    */
+    
+}
+    
+
+.conteudo {
+    margin-top: 55px;
+    float: right;
+    width: calc(100vw - 230px);
+}
+
+.cop {
+    position: fixed;
+    height: 50px;
+    width: 100%;
+    bottom: 0px;
+    background-color: #00113b;
+    text-align: center;
+}

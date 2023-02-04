@@ -1,0 +1,56 @@
+/*body{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color:antiquewhite
+}
+
+
+h1{
+    color: rgb(37, 37, 82);
+}
+
+.meunome{
+    color: aqua;
+    background-color: blue;
+    height: 50px;
+    
+}
+
+p{
+    color: blueviolet;
+}
+
+.nasc{
+    font-weight: 200;
+    font-style: italic;
+}
+
+.nome{
+    width: 100%;
+    height: auto;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.nome h2,p{
+    text-align: left;
+}
+*/
+body{
+    margin: 0%;
+
+}
+.softskill{
+    background-color: aqua;
+    width: 50%;
+    height: 300px;
+    position: absolute;
+    
+}
+
+.hardskill{
+    background-color:aquamarine;
+    width: 50%;
+    height: 300px;
+    position: absolute;
+    left: 50%;
+}
