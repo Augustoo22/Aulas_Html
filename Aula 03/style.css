@@ -8,14 +8,14 @@ body {
     height: 60px;
     width: 100%;
     top: 0px;
-    background-color: #00113b;
+    background-color: #00ffd0;
     text-align: center;
 }
 
 .header h1 {
     font-size: 30px;
-    line-height: 8px;
-    color: aliceblue;
+    line-height: 0px;
+    color: rgb(0, 0, 0);
 }
 
 .lateral {
@@ -23,7 +23,7 @@ body {
     float: left;
     margin-top: 60px;
     width: 150px;
-    background-color: aqua; 
+    background-color: rgb(15, 69, 69); 
     height: calc(100vh - 80px);
     /*
     vh - viewport heigth (altura)
@@ -31,7 +31,7 @@ body {
     */
     
 }
-    
+
 
 .conteudo {
     margin-top: 55px;
@@ -44,6 +44,6 @@ body {
     height: 50px;
     width: 100%;
     bottom: 0px;
-    background-color: #00113b;
+    background-color: #00ffd0;
     text-align: center;
 }
