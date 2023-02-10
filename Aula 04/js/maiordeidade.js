@@ -9,3 +9,9 @@ if (idade >= 18) {
 else {
     window.alert("Recusado " + nome + " voce tem " + idade + " menor de idade")
 }
+
+/*
+   var idade = Number.parseInt(window.prompt("Digite sua idade:"))
+
+   window.alert(idade<18?"Acesso negado" : "Acesso permitido")
+   */
